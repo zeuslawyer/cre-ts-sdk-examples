@@ -5,7 +5,6 @@ import {
     type Runtime,
 } from "@chainlink/cre-sdk";
 
-
 type Config = {
     schedule: string;
 };
