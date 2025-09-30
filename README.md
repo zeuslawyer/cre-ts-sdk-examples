@@ -1,6 +1,7 @@
-# Prerequisites
+## Prerequisites
+1. the [bun runtime](https://bun.com/).  The wasm compilation currently is only supported by the bun runtime which has near-complete NodeJS compatibility.
 
-CRE TS SDK currently requires [the BunJS runtime.](https://bun.com/).
+2. the [CRE CLI tool](https://github.com/smartcontractkit/cre-cli) installed.
 
 # How to use - Method 2
 
