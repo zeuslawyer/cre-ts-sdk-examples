@@ -1,9 +1,10 @@
 ## Prerequisites
-1. the [bun runtime](https://bun.com/).  The wasm compilation currently is only supported by the bun runtime which has near-complete NodeJS compatibility.
+
+1. the [bun runtime](https://bun.com/). The wasm compilation currently is only supported by the bun runtime which has near-complete NodeJS compatibility.
 
 2. the [CRE CLI tool](https://github.com/smartcontractkit/cre-cli) installed.
 
-# How to use - Method 2
+# How to use - Method 1
 
 In this method you initialise your new CRE project with `cre-init`.
 
